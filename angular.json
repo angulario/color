@@ -75,7 +75,8 @@
               "browserTarget": "color:build:production"
             },
             "development": {
-              "browserTarget": "color:build:development"
+              "browserTarget": "color:build:development",
+              "servePath": "/color"
             }
           },
           "defaultConfiguration": "development"
